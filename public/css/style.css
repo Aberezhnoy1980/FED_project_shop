@@ -1,0 +1,82 @@
+body {
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+
+}
+.wrap {
+  width: 1140px;
+  margin: 0 auto;
+  /* outline: 1px solid red; */
+}
+
+.center {
+  padding: 0 calc(50% - 1140px / 2);
+}
+
+
+.header {
+  background-color: #222;
+  padding: 18px 0;
+}
+
+.header-wrap {
+  display: flex;
+  justify-content: space-between;
+}
+.header-logo-link {
+  margin-right: 15px;
+}
+.header-account-link {
+  margin: 0 15px;
+}
+
+
+.promo {
+  background-color: #F1E4E6;
+}
+
+.promo-wrap {
+  height: 764px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  background-image: url(../img/promo-bg.png);
+  background-repeat: no-repeat;
+  background-position: -224px bottom;
+  /* background-size: 50%; */
+}
+
+.promo-title {
+  margin: 0;
+  width: 50%;
+  margin-left: 64px;
+  margin-top: -50px;
+  border-left: 12px solid #F16D7F;
+  padding-left: 16px;
+}
+
+.categories {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 65px;
+}
+
+.category-item-women {
+  background-image: url(../img/women.png);
+  width: 360px;
+  height: 260px;
+  margin-bottom: 30px;
+}
+
+.category-item-4 {
+  width:100%;
+}
+
+.footer {
+  background-color: #222;
+  padding: 15px;
+  margin-top: auto;
+}
