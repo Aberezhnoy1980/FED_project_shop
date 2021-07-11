@@ -1,0 +1,353 @@
+ПОЗИЦИОНИРОВАНИЕ ЭЛЕМЕНТОВ. ПРАКТИЧЕСКАЯ ВЕРСТКА.
+
+#####################################################################################################################
+
+Уважаемые слушатели!
+Вебинар пройдет на площадке Zoom!
+Вход на вебинар по кнопке "Войти на вебинар", рекомендуем вам до входа ознакомиться с инструкцией по ссылке: https://geekbrains.zendesk.com/hc/ru/sections/360002960459
+ 
+ 
+Частые вопросы:
+В процессе обучения: https://geekbrains.zendesk.com/hc/ru/categories/115000367509
+Как заходить в ZOOM трансляцию?
+Как проходит обучение в вебинарном формате?
+Наставник
+Как и когда сдавать домашнее задание?
+Срок сдачи практического задания, указан на странице для отправки работы. Для каждого домашнего - 7 дней с дня проведения вебинара. Так же есть пересдача - еще 7 дней для исправления оценки. 
+Если вы не успеваете сдать задание в первую неделю, то напишите комментарий об этом в сдаче ДЗ этого урока, я поставлю оценку "не сдано" и вы получаете еще 7 дней на пересдачу. 
+Если же вы затянули и время сдачи задания вышло, то вам нужно написать в саппорт - только они могут прикрепить ДЗ по истечению срока сдачи. Для этого нужно мое согласование срока сдачи. Работы позднее 2х недель после 8й лекции не принимаются.
+ 
+Git для начинающих: https://www.youtube.com/watch?v=Rke_Z1-nvUM&t=1s
+ 
+Редактор кода: https://code.visualstudio.com/
+Emmet - https://www.youtube.com/watch?v=mGPZ8P7xDLE
+Документация по плагину emmet - https://docs.emmet.io/
+ 
+Макет https://www.figma.com/file/7XhT5EWfZX0W6ohgd57Pny/shop
+ 
+ 
+Важное:
+Валидатор html - https://validator.w3.org/
+Валидатор css - https://jigsaw.w3.org/css-validator/
+ 
+MDN https://developer.mozilla.org/ru/docs/Web
+WebReference https://webref.ru/
+ 
+Можно ли вкладывать тег: https://caninclude.glitch.me/
+Генератор HTML-дерева тегов: https://yoksel.github.io/html-tree/
+Популярные слова для наименования классов: https://github.com/yoksel/common-words
+ 
+ 
+Flexbox
+Visual guide https://codepen.io/justd/full/yydezN/
+Игра FLEXBOX FROGGY http://flexboxfroggy.com/#ru
+ 
+ 
+Вебинары по теме урока:
+Блочная модель и ее тонкости https://geekbrains.ru/events/2580
+Верстка макета с помощью CSS FlexBox: https://geekbrains.ru/events/2582
+Способы расположения элементов - вебинар про float, inline-block, flex, grid: https://geekbrains.ru/events/2937
+ 
+ СТРУКТУРА HTML5, ЗНАКОМСТВО С ФОРМАМИ.
+
+ #############################################################################
+
+Примеры урока:
+Детейлс и саммари: https://jsfiddle.net/korshunova_mk/7bwgm908/1/
+https://developer.mozilla.org/ru/docs/Web/HTML/Element/details
+figure+figcaption: https://jsfiddle.net/korshunova_mk/3vjpzb7m/
+ 
+Формы и элементы форм:
+https://jsfiddle.net/korshunova_mk/zk7p8eht/1/
+https://jsfiddle.net/korshunova_mk/mtg7xndc/2/
+ 
+https://jsfiddle.net/korshunova_mk/c3wvyn0u/1/
+https://jsfiddle.net/korshunova_mk/bkcLndsx/4/
+https://jsfiddle.net/korshunova_mk/0k6xatso/
+https://jsfiddle.net/korshunova_mk/wL7kc640/
+ 
+пример начала главной: https://jsfiddle.net/korshunova_mk/cgurwa72/
+ 
+Макеты https://www.figma.com/file/7XhT5EWfZX0W6ohgd57Pny/shop
+Как отличить контентное изображение от декоративного - https://htmlacademy.ru/blog/153-content-or-decor-img
+ 
+Спецификация: https://html.spec.whatwg.org/
+ 
+Возможности тега input: https://webref.ru/html/input
+Стилизация переключателей radio/checkbox: https://itchief.ru/html-and-css/styling-checkbox-and-radio
+Стилизация кнопок input/button: 
+https://habr.com/ru/company/ruvds/blog/489820/
+https://ra-sn.ru/blog/razrabotka/stilizacziya-input.html
+ 
+Вебинар по семантике: https://geekbrains.ru/events/2579
+Семантические теги разметки:
+<main> - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main, https://webref.ru/html/main
+<article> - https://webref.ru/html/article
+<figure> - https://webref.ru/html/figure, https://web-standards.ru/articles/figure-figcaption/
+<figcaption> - https://webref.ru/html/figcaption
+<aside> - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/aside
+ 
+Семантические теги разметки текста
+<mark> - http://htmlbook.ru/html/mark
+<time> - https://webref.ru/html/time
+<wbr> - https://webref.ru/html/wbr
+ 
+ BOOTSTRAP
+
+ ########################################################################################
+
+ Примеры урока:
+https://codepen.io/lipa88/pen/zYqzRjo
+https://jsfiddle.net/korshunova_mk/jgm02941/1/
+Иконки FA и svg: https://jsfiddle.net/korshunova_mk/8ax573p6/2/
+Аудио-видео: https://jsfiddle.net/korshunova_mk/x6f7kn42/1/
+Бутстрап: https://jsfiddle.net/korshunova_mk/j9pvsyd7/
+ 
+карточки товара при наведении: https://jsfiddle.net/korshunova_mk/ehtu3wn6/46/
+ 
+Bootstrap https://getbootstrap.com/
+на русском: https://bootstrap-4.ru/
+ 
+Пример сетки: https://getbootstrap.com/docs/4.5/examples/grid/
+ 
+Аудио: https://webref.ru/html/audio
+Видео: https://webref.ru/html/video
+ 
+FontAwesome иконки: https://fontawesome.com/
+Всё про SVG: https://developer.mozilla.org/ru/docs/Web/SVG
+Про фон: https://webref.ru/css/background
+ 
+Шрифты: https://fonts.google.com/
+ 
+ 
+ПОЧЕМУ НЕ РАБОТАЕТ АВТОВОСПРОИЗВЕДЕНИЕ В GOOGLE CHROME?
+В последних версиях браузера компания google заблокировала автовоспроизведение, для включения этой функции необходимо сделать следующее
+В адресной строке браузера набрать chrome://flags/#autoplay-policy
+Изменить значение с "Default" на "No user gesture is required"
+Перезапустить браузер, нужно будет нажать на кнопку "relaunch"
+Теперь автовоспроизведение должно работать!
+ 
+Информация взята отсюда - https://stackoverflow.com/questions/49921453/how-to-allow-video-autoplay-in-a-google-chrome-kiosk-app-in-version-66-or-later
+ 
+Рабочий пример - https://drive.google.com/file/d/1EHO2KeAUfYkH-UHnf3zbW714G8Mbkb5-/view?usp=sharing
+
+ПРЕПРОЦЕССОРЫ
+
+#########################################################################################
+
+Препроцессоры
+Разница между Less и SCSS https://d2xzmw6cctk25h.cloudfront.net/asset/2227092/attachment/0edcdb1e766b8d18c71682c2fcadfe84.pdf
+Программа для компиляции Коала: http://koala-app.com/
+Расширение VSCode: Live Sass Compiler, Easy Less
+Вебинар по SASS: https://geekbrains.ru/events/1968#
+ 
+Песочница Less: https://lesstester.com/
+Песочница Sass: https://www.sassmeister.com/
+ 
+Документация LESS http://lesscss.org/
+LESS на русском языке: https://mrmlnc.gitbooks.io/less-guidebook-for-beginners/content/
+Документация SASS https://sass-lang.com/
+Документация SASS на русском языке https://sass-guidelin.es/ru/
+ 
+Как запустить препроцессор SASS/SCSS?
+1. Открываем VSC
+2. Ставим Live Sass Compiler и Live Server 
+3. Скопировать всё содержимое style.css файла
+4. Удалить файл style.css
+5. Создать новый файл style.scss
+6. Добавить всё что скопировали
+7. Нажать watch sass
+8. Продолжить верстку
+ 
+https://ru.bem.info/
+https://yoksel.github.io/html-tree/
+ 
+Примеры урока: 
+details: https://jsfiddle.net/korshunova_mk/7bwgm908/1/
+filter: https://jsfiddle.net/korshunova_mk/jgf1k4ys/1/
+slider: https://codepen.io/lipa88/pen/oNYvmPN
+
+ЭФФЕКТЫ ПЕРЕХОДА И ТРАНСФОРМАЦИИ В CSS3
+
+########################################################################################################
+
+Вебинар по анимациям:https://geekbrains.ru/events/2581
+ 
+Примеры трансформаций: https://codepen.io/lipa88/pen/xxbWYOG
+Переходы: https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions
+Примеры применения свойств: https://webref.ru/course/css-advanced/transitions
+ 
+Галерея: https://codepen.io/lipa88/pen/VwaBMaz
+ 
+Анимация: https://developer.mozilla.org/ru/docs/Web/CSS/animation
+Облака: https://codepen.io/lipa88/pen/VwaBrKq
+Градиентный фон: https://codepen.io/lipa88/pen/MWyBOJm
+ 
+https://animista.net/
+ 
+Примеры урока:
+https://jsfiddle.net/korshunova_mk/vmowurxj/
+https://jsfiddle.net/korshunova_mk/1xwnmg89/
+https://jsfiddle.net/korshunova_mk/doc8pn7t/1/
+кнопки при наведении: 
+https://jsfiddle.net/korshunova_mk/fe2qxyd4/2/
+https://jsfiddle.net/korshunova_mk/drco6ktL/
+анимация: https://jsfiddle.net/korshunova_mk/qLdgs2wj/
+ 
+меню: https://jsfiddle.net/korshunova_mk/vkdrjLh6/2/
+открытие фильтра: https://jsfiddle.net/korshunova_mk/jgf1k4ys/1/
+слайдер страницы товара: https://codepen.io/lipa88/pen/oNYvmPN
+Варианты выпадающих элементов: https://codepen.io/lipa88/pen/zYooVXB
+карточки товара при наведении: https://jsfiddle.net/korshunova_mk/ehtu3wn6/46/
+ 
+ 
+CANVAS
+ 
+Руководство по Canvas https://developer.mozilla.org/ru/docs/Web/API/Canvas_API/Tutorial 
+Пример Canvas: https://jsbin.com/qofovelusa/edit?html,js,output
+Самоучитель по JavaScript: https://learn.javascript.ru/
+https://css-tricks.com/adding-particle-effects-to-dom-elements-with-canvas/
+https://habr.com/ru/company/simbirsoft/blog/332750/
+ 
+Больше крутых примеров Canvas: 
+https://codepen.io/sol0mka/pen/Jsyxq, https://codepen.io/dissimulate/details/KrAwx, https://codepen.io/alexzaworski/pen/mEkvAG, https://codepen.io/jscottsmith/details/VjPaLO
+ 
+ 
+Примеры урока: 
+details: https://jsfiddle.net/korshunova_mk/7bwgm908/1/
+filter: https://jsfiddle.net/korshunova_mk/jgf1k4ys/1/
+slider: https://codepen.io/lipa88/pen/oNYvmPN
+
+МЕДИА ЗАПРОСЫ, АДАПТИВНАЯ ВЕРСТКА
+
+##################################################################################################
+
+Не забудь: 
+<meta name="viewport" content="width=device-width, initial-scale=1">
+https://developer.mozilla.org/ru/docs/Mozilla/Mobile/Viewport_meta_tag
+ 
+Резиновый сайт: http://www.onextrapixel.com/examples/responsive-design/example1_fluid.php
+Адаптивный сайт: https://codepen.io/lipa88/pen/oNxVBLg?editors=1100
+Отзывчивый сайт: https://codepen.io/lipa88/pen/OJNvrxB
+ 
+HTML валидатор https://validator.w3.org/
+Валидатор стилей http://jigsaw.w3.org/css-validator/
+ 
+Примеры урока:
+Карточка товара: https://jsfiddle.net/korshunova_mk/64L9n0w1/1/
+Условия @media: https://jsfiddle.net/korshunova_mk/d9grpq8j/1/
+Центровщики и скроллы: https://jsfiddle.net/korshunova_mk/jk5Ltfvg/1/
+ 
+Пример @media и фоном: https://jsfiddle.net/korshunova_mk/ym7x2bkn/2/
+Пример с 3-мя колонками: https://jsfiddle.net/korshunova_mk/k1v9nxhm/1/
+Пример адаптива: https://codepen.io/lipa88/pen/ZEBYgVQ?editors=1100
+
+ПРКАТИЧЕСКОЕ ПРИМЕНЕНИЕ АДАПТИВНОЙ ВЕРСТКИ
+
+#############################################################################################
+
+Меню: https://jsfiddle.net/korshunova_mk/k7ydtou8/2/
+Отзывчивый макет: https://codepen.io/lipa88/pen/XWNbJbr?editors=1100
+ 
+ 
+https://habr.com/ru/post/463923/#4 замена контейнеру
+ 
+Вебинар по мобильному меню на css/js: https://geekbrains.ru/events/2940
+burger: https://codepen.io/lipa88/pen/mdPxvev
+Бургер-меню на css: https://codepen.io/lipa88/pen/abZxoXO
+ 
+https://googlechrome.github.io/samples/picture-element/
+Про тег picture: https://developer.mozilla.org/ru/docs/Web/HTML/Element/picture
+Адаптивные картинки picture: https://codepen.io/lipa88/pen/pobGyxM
+webp https://css-tricks.com/using-webp-images/ 
+ 
+http://youmightnotneedjs.com/
+ 
+Оптимизация графики для Retina-экранов https://habr.com/ru/post/150071/
+
+Полное руководство по отзывчивым изображениям https://medium.com/@ABatickaya/responsive-imgs-998f103a7a32
+ 
+HTML:
+
+<picture>
+<source type="image/webp" media="(min-width: 768px)" srcset="img/photo-tablet.webp 1x, img/photo-tablet@2x.webp 2x">
+<source type="image/webp" srcset="img/photo.webp 1x, img/photo@2x.webp 2x">
+<source media="(min-width: 768px)" srcset="img/photo-tablet.jpg 1x, img/photo-tablet@2x.jpg 2x">
+<img class="item" src="img/photo.jpg" srcset="img/photo@2x.jpg 2x" alt="">
+</picture>
+
+ 
+CSS:
+
+@media (-webkit-min-device-pixel-ratio: 1),
+(min-resolution: 1dppx) { 
+// normal 
+}
+@media (-webkit-min-device-pixel-ratio: 2) ,
+(min-resolution: 2dppx) { 
+// retina
+}
+
+GRID LAYOUT, НОВЫЕ ВОЗМОЖНОСТИ CSS3
+
+###################################################################################################
+
+Пройдите опрос и предложите темы дополнительных вебинаров: https://forms.gle/p93e5NQGG4JH3yTr7
+ 
+ 
+Как проверить сайт на ошибки?
+ 
+1. Все наведения и нажатия должны быть, если это кнопка добавлять эффект при наведении - обязательно
+2. Семантика
+3. Связать страницы друг с другом.
+4. Footer прижат к низу экрана, не сверху, не по центру
+https://jsfiddle.net/korshunova_mk/w8ne0b7c/4/
+5. Иконки соц сетей лучше сделать не просто картинками: или svg, или fontawesome
+6. Текст, даже если он большой, запрещается делать картинкой, он должен быть всегда текстом, который можно в любую минуту поменять
+7. Если ссылка никуда не ведёт, добавляем href="#", пустаю не оставляем. Страница не должна ссылаться на саму себя 
+8. Множественный бекграунд, если несколько фоновых картинок https://jsfiddle.net/wfpo9nd8/11/
+9. Приближение и отдаление макета (до 25% отдалять не обязательно, 67%-150%)
+10. Логотип обязательно ссылка на главную страницу, кроме главной
+11. Проверить, нет ли каких-то эффектов наведения или фокуса сразу в макете
+12. Если что-то непонятно спрашивать у дизайнера, не придумывать самому :)
+13. Проверка большого текста
+14. типограф https://www.artlebedev.ru/typograf/
+15. padding для полей ввода слева и справа
+16. Валидатор
+ 
+ 
+Ссылки на полезные ресурсы
+ 
+https://validator.w3.org/nu/ Валидатор html
+https://jigsaw.w3.org/css-validator Валидатор для css
+ 
+https://caniuse.com/ поддержка свойств в браузерах
+http://browsershots.org/ проверка сайта на кроссбраузерность
+ 
+https://fontawesome.com/ иконочный шрифт
+https://webcode.tools/html-generator как быстрее всего добавить аудио/видео на страницу
+http://animista.net/play/basic Генератор создания анимаций
+ 
+https://squoosh.app/ конвертер фотографий, для уменьшения размера фото
+https://necolas.github.io/normalize.css/ обнуление стилей
+https://autoprefixer.github.io/ru/ добавление префиксов к css
+https://ru.bem.info/methodology/quick-start/ БЭМ (методология, как можно называть классы)
+http://howtocenterincss.com/ Как центрировать элементы
+ 
+ 
+CSS Grid Layout
+https://jsfiddle.net/korshunova_mk/Lgjhmwdf/1/
+Игра: https://cssgridgarden.com/#ru
+Простой пример грид:https://codepen.io/lipa88/pen/JjXvmqm?editors=1100
+Сетка элементов: https://codepen.io/lipa88/pen/VweQJJw
+Про Grid: https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Grid_Layout
+ 
+https://codepen.io/lipa88/pen/pobGyxM
+ 
+Вебинары:
+Воркшоп по сеткам на CSS Grid https://geekbrains.ru/events/2583
+Презентация: https://d2xzmw6cctk25h.cloudfront.net/asset/2556876/attachment/7fdc00992e3a7759c1ef31287b213152.pdf
+Способы создания сетки: float, inline-block, flex, grid https://geekbrains.ru/events/2367
+ 
+https://webref.ru/course/position
+​

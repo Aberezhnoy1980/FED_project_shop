@@ -1,0 +1,272 @@
+/* @color-pink: #f16d7f */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.wrap {
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.center {
+    padding: 0 calc(50% - 1140px / 2);
+}
+
+.hidden {
+    position: absolute;
+    left: -999999px;
+    width: 0;
+    height: 0;
+    visibility: hidden;
+}
+
+.header {
+    background: #222;
+    outline: 1px solid #F16D7F;
+    color: color #fff;
+    padding: 20px 0;
+}
+
+.header-wrap {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header-logo {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.logo-link {
+    margin-right: 40px;
+}
+
+.account {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: 5px;
+}
+
+.menu {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+.login {
+    margin: 0 30px;
+}
+
+.search {
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+.search-form {
+    opacity: 0;
+    width: 0;
+    z-index: -2;
+    position: relative;
+    transition: 0.5s;
+}
+
+.search-form-open {
+    opacity: 1;
+    width: 200px;
+    z-index: 2;
+}
+
+.search-field {
+    width: 100%;
+    padding: 5px;
+    border: 1px solid #9f9f9f;
+    border-radius: 0;
+}
+
+.promo {
+    background-color: #f1e4e6;
+}
+
+.promo-wrap {
+    background-image: url(../img/index/promo-bg.png);
+    background-repeat: no-repeat;
+    background-position: -225px bottom;
+    min-height: 765px;
+    padding-left: 570px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.promo-title {
+    text-transform: uppercase;
+    margin-left: 45px;
+    padding-left: 20px;
+    border-left: 12px solid #f16d7f;
+    color: #222;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 40px;
+}
+
+.promo-title--smaller {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 38px;
+}
+
+.promo-title--pink {
+    color: #F16D7F;
+}
+
+.categories {
+    background-color: #fff;
+}
+
+.categories-wrap {
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-wrap: wrap;
+    padding: 65px 0 80px 0;
+}
+
+.category-item {
+    background: rgba(33,22,22,0.7);
+    width: 360px;
+    min-height: 260px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px;
+    text-transform: uppercase;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+}
+
+
+.category-item-women {
+    background-image: url(../img/index/category-women.png);
+}
+
+.category-item-men {
+    background-image: url(../img/index/category-men.png);
+}
+
+.category-item-kids {
+    background-image: url(../img/index/category-kids.png);
+}
+
+.category-item-accesories {
+    background-image: url(../img/index/category-accesories.png);
+    margin-top: 30px;
+    width: 100%;
+    min-height: 180px;
+}
+
+.category-text {
+    font-weight: normal;
+    font-size: 16px;
+    color: #FFF;
+    margin: 0;
+}
+
+.category-name {
+    font-weight: bold;
+    font-size: 24px;
+    color: #F16D7F;
+    margin: 0;
+}
+
+.products {
+    background-color: #fff;
+}
+
+.products-title {
+    text-align: center;
+    font-size: 30px;
+    margin: 0;
+    color: #222;
+}
+
+.products-text {
+    text-align: center;
+    margin-top: 6px;
+    margin-bottom: 48px;
+    color: #9F9F9F;
+}
+
+.products-wrap {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.products-item {
+    width: 360px;
+    background-color: #F8F8F8;
+    margin-bottom: 30px;
+}
+
+.products-img {
+    width: 100%;
+}
+
+.products-description {
+    padding: 20px;
+    font-size: 14px;
+    color: #5D5D5D;
+    line-height: 17px;
+}
+
+.products-heading {
+    margin-top: 0;
+    margin-bottom: 13px;
+    font-size: 13px;
+    color: #000;
+}
+
+.products-price {
+    font-size: 16px;
+    color: #F16D7F;
+}
+
+.advantages {
+    background: #222;
+    min-height: 300px;
+    padding-top: 105px;
+    padding-bottom: 105px;
+}
+
+.feedback {
+    background-color: #eee;
+    background-image: url(../img/common/subscribe.jpg);
+    background-position: left bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 448px;
+}
+
+.footer {
+    background-color: #222;
+    min-height: 79px;
+    color: #fff;
+}
